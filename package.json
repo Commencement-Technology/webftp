@@ -44,7 +44,7 @@
     "react-contextmenu": "^2.9.2",
     "react-dom": "^16.4.1",
     "react-s-alert": "^1.4.1",
-    "react-scripts": "1.1.4",
+    "react-scripts": "5.0.1",
     "react-tooltip": "^3.6.1",
     "socks": "^2.2.1"
   },
